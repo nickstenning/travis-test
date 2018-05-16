@@ -1,3 +1,2 @@
-sudo: false
-install: true
+os: linux-ppc64le
 script: uname -a
